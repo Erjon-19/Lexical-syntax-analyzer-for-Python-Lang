@@ -13,7 +13,7 @@ When you run the program with a pyhton file as input, you get the message "synta
 
 **Examples**
 **#1**------------------------------------------------------------------------------------------------------
-<img src="https://user-images.githubusercontent.com/49555420/112720510-87c04580-8f07-11eb-888a-5148930ba4ac.png" width="170" height="548">)
+<img src="https://user-images.githubusercontent.com/49555420/112720510-87c04580-8f07-11eb-888a-5148930ba4ac.png" width="548" height="170">)
 
 **#2**------------------------------------------------------------------------------------------------------
 ![run-j](https://user-images.githubusercontent.com/49555420/112720540-b2aa9980-8f07-11eb-9ae4-7d8842131df6.png)
