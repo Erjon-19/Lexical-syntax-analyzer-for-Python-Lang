@@ -12,10 +12,10 @@ Steps to compile and run the code:
 When you run the program with a pyhton file as input, you get the message "syntax corect", else you get error either lexical or syntax with line number of the error that has the python file.  
 
 **Examples**
-**#1**
-![run-i](https://user-images.githubusercontent.com/49555420/112720510-87c04580-8f07-11eb-888a-5148930ba4ac.png)
+**#1**------------------------------------------------------------------------------------------------------
+![run-i](https://user-images.githubusercontent.com/49555420/112720510-87c04580-8f07-11eb-888a-5148930ba4ac.png =250x250)
 
-**#2**
+**#2**------------------------------------------------------------------------------------------------------
 ![run-j](https://user-images.githubusercontent.com/49555420/112720540-b2aa9980-8f07-11eb-9ae4-7d8842131df6.png)
 
 
